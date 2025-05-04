@@ -53,4 +53,4 @@ MIT License
 
 ## Author
 
-Zhang Deao (Allen) – [GitHub](https://github.com/yourname)
+Zhang Deao (Allen)
